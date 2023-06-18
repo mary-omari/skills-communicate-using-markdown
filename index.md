@@ -16,3 +16,7 @@
 
 </html>  
 ```
+- [ ] Add a header
+- [ ] Add an image
+- [ ] Add code example
+- [ ] Add a task list
